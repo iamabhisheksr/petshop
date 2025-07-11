@@ -1,0 +1,50 @@
+div{
+    background-color:black;
+    color: white;
+    width: 200px;
+    height: 70px;
+    padding-left:50px ;
+    border-color: yellow;
+    display: inline-table;
+}
+h1{
+    color: green;
+    position: fixed;
+}
+h2{
+    color: yellow
+}
+.cat{
+    color: brown;
+}
+#mouse{
+    color: forestgreen;
+}
+.asr{
+    background-color: white;
+    padding-top: 55px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: 50px;
+    height: 200px;
+}
+.one{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+.two{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    position: relative;
+}
+.three{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
